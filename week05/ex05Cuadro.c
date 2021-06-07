@@ -25,8 +25,8 @@ int main(void){
 
 	char ast[] = "*";
   time = size;//asignación a veces que imprimira lineas
-  while(ct != time){
-    while(ct2 != size){
+  while(ct != time){//bucle de lineas a imprimir
+    while(ct2 != size){//bucle de columnas a imprimir
       printf("%s ",ast);
       ct2++;//incrementador de contador
     }
