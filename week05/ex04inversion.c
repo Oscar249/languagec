@@ -7,15 +7,15 @@ int main(void){
   printf("please, input the total: ");
   scanf("%d", &total);
 
-  printf("please, input the value to people 1: ");
+  printf("please, input the value to person 1: ");
   scanf("%d", &p1);
 
   
-  printf("please, input the value to people 2: ");
+  printf("please, input the value to person 2: ");
   scanf("%d", &p2);
 
   
-  printf("please, input the value to people 3: ");
+  printf("please, input the value to person 3: ");
   scanf("%d", &p3);
 
   sum = p1+p2+p3;
