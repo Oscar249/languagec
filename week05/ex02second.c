@@ -1,3 +1,7 @@
+/*
+It was created by Eduardo Flores
+*/
+
 #include<stdio.h>
 
 int main(void){
